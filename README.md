@@ -16,9 +16,12 @@ This project analyzes the performance for March month of a cloud kitchen using E
 - Pivot Tables
 - Power Pivot
 - Data Cleaning using Power Query
+- Used Slicers and Filters for deeper Analysis
 - Dashboard Design and Visualization
 
 ## 💡 Learnings
 - Storytelling with data
 - Customer behavior analysis
 - Visual insights for business decisions
+
+### 🧠 Data Story
