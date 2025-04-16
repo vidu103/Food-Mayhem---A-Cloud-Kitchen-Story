@@ -9,3 +9,16 @@ This project analyzes the performance for March month of a cloud kitchen using E
 
 ## 📊 Dashboard Preview
 ![Dashboard Screenshot](Image/1.png)
+![Dashboard Screenshot](Image/2.png)
+
+## 🛠 Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Power Pivot
+- Data Cleaning using Power Query
+- Dashboard Design and Visualization
+
+## 💡 Learnings
+- Storytelling with data
+- Customer behavior analysis
+- Visual insights for business decisions
