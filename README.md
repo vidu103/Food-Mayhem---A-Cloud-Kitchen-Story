@@ -9,7 +9,7 @@ This project analyzes the performance for March month of a cloud kitchen using E
 
 ## 📊 Dashboard Preview
 ![Dashboard Screenshot](Image/1.png)
-![Dashboard Screenshot](Image/2.png)
+![Dashboard Screenshot](Image/2.jpg)
 
 ## 🛠 Tools Used
 - Microsoft Excel
