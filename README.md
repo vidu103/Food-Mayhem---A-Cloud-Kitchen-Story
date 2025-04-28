@@ -24,5 +24,3 @@ This project analyzes the performance for March month of a cloud kitchen using E
 - Customer behavior analysis
 - Visual insights for business decisions
 
-## 🧠 Data Story
-
